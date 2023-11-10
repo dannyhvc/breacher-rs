@@ -1,7 +1,5 @@
 # breacher-rs
 
-![Project Logo/Icon - Optional]
-
 Breacher is a tool written in Rust for scanning web applications to discover potential admin panels and paths. It can be used to identify common paths used by content management systems (CMS) and other web applications.
 
 ## Features
