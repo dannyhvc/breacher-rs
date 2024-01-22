@@ -20,7 +20,7 @@ async fn main() {
         "|_____] |    \\_ |______ |     | |_____  |     | |______ |    \\_\n"
     );
     println!("                          \x1b[37mMade with \x1b[91m<3\x1b[37m By DAN\x1b[1;m");
-    println!("\n  I am not responsible for your shit and if you get some error while");
+    println!("\n  I am not responsible for your mess and if you get some error while");
     println!(" running Breacher, there are good chances that the target isn't responding.\n");
     println!("\x1b[1;31m--------------------------------------------------------------------------\x1b[1;m\n");
 
